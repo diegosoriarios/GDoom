@@ -9,7 +9,7 @@ var player = null
 var dead = false
 
 func _ready():
-	anim_player.play("walk")
+	anim_player.play("walking")
 	add_to_group("zombies")
 
 func _physics_process(delta):
