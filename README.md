@@ -3,6 +3,6 @@ A Doom clone using Godot
 
 ### Todo
 
-- [ ] Criar terreno
+- [x] Criar terreno
 - [ ] Criar dificuldade
 - [ ] Criar história
